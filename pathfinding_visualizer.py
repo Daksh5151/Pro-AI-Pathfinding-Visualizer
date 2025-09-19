@@ -1,5 +1,3 @@
-# advanced_pathfinding_visualizer.py
-# An advanced tool to visualize and compare pathfinding algorithms with a modern UI.
 
 # --- 1. IMPORT LIBRARIES ---
 import pygame
@@ -279,4 +277,5 @@ def main(win, width):
 
 if __name__ == "__main__":
     main(WIN, WIDTH)
+
 
